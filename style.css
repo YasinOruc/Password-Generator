@@ -16,7 +16,10 @@ h1{
     color: white;
     margin: 0px;
     padding: 0px;
-    
+}
+
+h1.random-password{
+    color: #89CFF0;
 }
 
 .app {
