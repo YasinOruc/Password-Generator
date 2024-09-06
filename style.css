@@ -37,6 +37,18 @@ h1.random-password{
     color: black;
     padding: 25px;
     margin-top: 30px;
+    margin-bottom: 30px;
     width: 30em;
     border-radius: 8px;
+}
+
+.button{
+    width: 265px;
+    padding: 12.5px;
+    border-radius: 8px;
+    background-color: #89CFF0;
+    border: 0px;
+    color: black;
+    font-weight: 550;
+    cursor: pointer;
 }
